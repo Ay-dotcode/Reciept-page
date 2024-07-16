@@ -48,7 +48,7 @@ div {
     height: 150px;
 }
 
-h3 {
+div h2 {
     font-family: 'Outfit';
     font-weight: 600;
     color: hsl(332, 51%, 32%);
