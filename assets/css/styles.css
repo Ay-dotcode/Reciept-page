@@ -6,4 +6,6 @@
 
 body {
     font-family: sans-serif, Outfit, 'Young Serif';
+    padding: 30px;
+    border-radius: 16px;
 }
